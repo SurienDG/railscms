@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A cms built with rails. 
 
-Things you may want to cover:
+<h1> Purpose: </h1>
 
-* Ruby version
+<p> To learn basics of Ruby on Rails and SQL when making a content management system </p>
 
-* System dependencies
 
-* Configuration
+<h1>To be added </h1>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<l1> 
+<ol> More features such as multiple normal users </ol>
+<ol> More fields</ol>
+</li>
